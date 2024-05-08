@@ -2,7 +2,8 @@
 
 #### Variables de entorno
 
-- MONGO_URL_CONNECTION= string de conexion a base de datos de conexiones de MongoDB con su nombre de usuario y contraseña
+- REDIS_REAL_TIME_CONNECTIONS= string de conexion a base de datos de conexiones de Redis
+- API_WS_URL= url de la Api Gateway de Web Sockets para enviarle mensajes
 
 #### Permisos
 
