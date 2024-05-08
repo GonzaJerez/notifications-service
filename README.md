@@ -2,7 +2,7 @@
 
 #### Variables de entorno
 
-- MONGO_URL_CONNECTION=... (string de conexion a base de datos de conexiones de MongoDB con su nombre de usuario y contraseña)
+- MONGO_URL_CONNECTION= string de conexion a base de datos de conexiones de MongoDB con su nombre de usuario y contraseña
 
 #### Permisos
 
